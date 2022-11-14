@@ -30,7 +30,7 @@ public class DataReader {
 	    } catch (SQLException ex) {
 	        ex.printStackTrace();
 	    }
-		return null; //sollte nur bei DB Exception auftreten
+		return null; //sollte nur bei DB Exception auftreten #Test
 
 	}
 	
