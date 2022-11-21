@@ -32,7 +32,8 @@ public class DataReader {
 	    }
 		return null; //sollte nur bei DB Exception auftreten #Test Test3
 		//Test4
-		//Test6 Bene
+		//Nein, Test 5°!
+		//Test6 Bene  #erledigt
 	
 
 	}
